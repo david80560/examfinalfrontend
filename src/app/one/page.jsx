@@ -1,9 +1,11 @@
+
 'use client'
+import Generator from "./Generator";
 
 export default function One() {
   return (
-   <div>
-    1
-   </div>
-  );
-}
+<div>
+    <Generator/>
+</div>
+
+  )};
